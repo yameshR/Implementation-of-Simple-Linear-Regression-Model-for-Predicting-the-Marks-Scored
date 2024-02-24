@@ -87,10 +87,13 @@ vii)![OUTPUT](8.png)
 viii)![OUTPUT](9.png)
 ix)![OUTPUT](10.png)
 
+
 x)![OUTPUT](11.png)
+
 
 xi)![OUTPUT](12.png)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
+
 
