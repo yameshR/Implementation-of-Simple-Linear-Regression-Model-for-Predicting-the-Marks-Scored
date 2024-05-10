@@ -18,8 +18,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by:N.NAVYA SREE
-RegisterNumber:212223040138
+Developed by:Yamesh R
+RegisterNumber:212222220059
 */
 
 import pandas as pd
